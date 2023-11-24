@@ -1,11 +1,11 @@
 {
   "name": "main2",
   "version": "1.0.0",
-  "main": "app.txt.js",
+  "main": "Main1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "s": "nodemon Main1.js",
-    "build": "npm install"
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
